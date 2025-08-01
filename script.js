@@ -90,14 +90,15 @@ function drawScene1() {
       .html(`
         <h2> An Analysis of Air Safety</h2>
         <p> Commercial aviation used to be very dangerous 
-        in the eary to mid 20th century, but has now evolved
+        in the early to mid 20th century, but has now evolved
         into a much safer means of transport. This line chart
         shows the total fatalities over the decades starting from
         1920 to 2020.</p>
         <p> The main takeaway is that there has been a sharp
         decline in fatalities over the past 20 to 30 years, 
         which is notable given how many more people use planes 
-        in the modern day.
+        in the modern day.</p>
+        <p><em>Continue to Scene 2 to explore safety improvements by decade...</em></p>
         `)
        
 }

@@ -102,7 +102,7 @@ function drawScene1() {
 }
 
 function drawScene2() {
-    currScene = "1";
+    currScene = "2";
 
     svg.selectAll("*").remove();
 
